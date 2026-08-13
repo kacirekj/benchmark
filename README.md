@@ -91,6 +91,8 @@ DIRECT ACCESS       0.249 ms       0.129 MB/s
 
 ## Coremark single core
 
+I confirm that Apple M1 speed is same on my Mac
+
 | Board | CoreMark | Mark/MHz |
 |---|---:|---:|
 | Arduino MEGA 2560 | 7 | 0.44 |
