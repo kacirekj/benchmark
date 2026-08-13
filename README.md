@@ -2,7 +2,7 @@
 
 This is C language benchmark for disk read/write operations. It contains also the results for various platforms.
 
-## Hdd read
+## My hdd read benchmark
 
 ### Arduino Uno
 
@@ -89,9 +89,7 @@ CONTAINS            3.346 ms      95.642 MB/s
 DIRECT ACCESS       0.249 ms       0.129 MB/s
 ```
 
-## Coremark
-
-Single core results
+## Coremark single core
 
 | Board | CoreMark | Mark/MHz |
 |---|---:|---:|
