@@ -1,5 +1,8 @@
 # Benchmarks
 
+This is C language benchmark for disk read/write operations. It contains also the results for various platforms.
+
+
 ## Arduino Uno
 
 ### FAT Filesystem
