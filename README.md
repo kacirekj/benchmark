@@ -91,21 +91,23 @@ DIRECT ACCESS       0.249 ms       0.129 MB/s
 
 ## Coremark
 
-| Device | Score |
-|---|---:|
-| Macbook Air M1 2020 | 31600 |
-| Teensy 4.0 | 2313.57 |
-| Adafruit Metro M4 (200MHz overclock, 'dragons' optimization) | 536.35 |
-| Adafruit Metro M4 (180MHz overclock, faster optimizations) | 458.19 |
-| Teensy 3.6 | 440.72 |
-| Sparkfun ESP32 Thing | 351.33 |
-| Adafruit HUZZAH 32 | 351.35 |
-| Teensy 3.5 | 265.50 |
-| Teensy 3.2 (96MHz overclock, faster optimizations) | 218.26 |
-| Adafruit Metro M4 (120MHz, smaller code) | 214.85 |
-| Teensy 3.2 (72MHz) | 168.62 |
-| Teensy 3.2 (72MHz, smaller code) | 126.76 |
-| Arduino Due | 94.95 |
-| Arduino Zero | 56.86 |
-| Arduino Nano Every | 8.20 |
-| Arduino Mega | 7.03 |
+| Board | CoreMark | Mark/MHz |
+|---|---:|---:|
+| Arduino MEGA 2560 | 7 | 0.44 |
+| STM32F103C8T6 128k | 81 | 1.13 |
+| STM32F401CCU6 256k | 150 | 1.79 |
+| STM32F411CEU6 512k | 172 | 1.72 |
+| T-Koala ESP32 | 351 | 2.19 |
+| Raspberry Pi Model B v2 | 1574 | 2.25 |
+| Qualcomm Atheros QCA956X | 2053 | 2.65 |
+| Raspberry Pi 3 Model B | 3800 | 3.17 |
+| Amlogic S905W tanix tx3 | 3913 | 3.26 |
+| Raspberry Pi 4 v1.1 4GB | 8257 | 5.50 |
+| Xeon X5550 | 13643 | 4.46 |
+| i5-3320M | 21245 | 6.44 |
+| i7-4960HQ | 21326 | 5.61 |
+| i7-6820HQ | 23779 | 6.61 |
+| i3-10100 | 30532 | 7.23 |
+| i7-13700T | 39082 | 8.49 |
+| Apple M1 | 31718 | 9.91 |
+| Exynos 2400 in Galaxy S24 | 33129 | 10.32 |
